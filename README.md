@@ -36,21 +36,6 @@ Database:MySQL / MariaDB via phpMyAdmin
 Frontend Framework:Bootstrap 5.3 & Bootstrap Icons
 Library Eksternal:jQuery 3.6.0 (Pengolah Ajax Request)
 Lingkungan Lokal:Laragon
-
-📁 Struktur Direktori Proyek
-
-📁 PROYEK_2
-├── 📁 assets
-│   ├── 📄 1387951-hd_1920_1080_30fps.mp4             # Berkas Video Profil Toko
-│   └── 📄 alanajordan-commercial-jingle-04-252796 (1).mp3 # Berkas Audio Jingle Theme
-├── 📁 uploads                                         # Penyimpanan fisik berkas gambar bunga (.jfif, .jpg, .png)
-├── 📄 setup.php                                       # Berkas koneksi database & session start
-├── 📄 login.php                                       # Halaman masuk admin
-├── 📄 logout.php                                      # Penghapus session akses
-├── 📄 index.php                                       # Dashboard Utama & Datatable Produk
-├── 📄 detail.php                                      # Injeksi Modal Detail Produk Tersemat Sistem
-├── 📄 edit.php                                        # Proses Edit Data & Handler simpan TTD Digital via POST
-├── 📄 tambah.php                                      # Komponen Modal Tambah Varian Bunga
 ├── 📄 hapus.php                                       # Aksi hapus baris data produk
 ├── 📄 export-csv.php                                  # Mesin ekspor file spreadsheet CSV
 ├── 📄 export-pdf.php                                  # Mesin pencetak dokumen PDF stok
